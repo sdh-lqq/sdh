@@ -5,6 +5,6 @@ for i in range(1,100):
         if(i<=j):
             print(i*j)
         else:
-            print(i-j)
+            print(2*i-3*j+i%2)
              
                      
