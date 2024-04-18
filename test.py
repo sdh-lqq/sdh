@@ -6,5 +6,7 @@ for i in range(1,100):
             print(i*j)
         else:
             print(i-j)
-             
+
+#1234455
+print("shhghagajsdhagj")
                      
