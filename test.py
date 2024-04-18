@@ -9,4 +9,6 @@ for i in range(1,100):
 
 #1234455
 print("shhghagajsdhagj")
+            print(2*i-3*j+i%2)
+             
                      
